@@ -1,0 +1,142 @@
+[
+  {
+    "pack_slug": "fort_worden_shore",
+    "bingo_id": "fw_b1",
+    "label": "Harbor seal (from shore)",
+    "description": "Seal resting or swimming at a distance.",
+    "safety_note": "Observe from shore; never approach or surround."
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "bingo_id": "fw_b2",
+    "label": "Kelp blade",
+    "description": "Washed-up seaweed blade (leave it where it is).",
+    "safety_note": "Do not remove attached living algae."
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "bingo_id": "fw_b3",
+    "label": "Crab molt",
+    "description": "Empty crab shell or pieces in wrack line.",
+    "safety_note": "Leave in place for recycling nutrients."
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "bingo_id": "fw_b4",
+    "label": "Eelgrass tangle",
+    "description": "Washed-up seagrass strands (brown/green).",
+    "safety_note": "Leave seagrass in place; habitat value."
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "bingo_id": "fw_b5",
+    "label": "Cormorant or gull",
+    "description": "Seabird perched or flying.",
+    "safety_note": "Avoid flushing birds; keep distance."
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "bingo_id": "fw_b6",
+    "label": "Boat wake lines",
+    "description": "Water ripples after a boat passes.",
+    "safety_note": "Stay well back from water’s edge."
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "bingo_id": "fw_b7",
+    "label": "Driftwood with roots",
+    "description": "A log with roots attached.",
+    "safety_note": "Never climb on unstable logs."
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "bingo_id": "fw_b8",
+    "label": "Shoreline current line",
+    "description": "A line of foam or debris marking current.",
+    "safety_note": "Observe from a safe lookout."
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "bingo_id": "fw_b9",
+    "label": "Foghorn or bell sound",
+    "description": "Hear a navigation aid or ship horn.",
+    "safety_note": "Choose safe listening spot."
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "bingo_id": "fw_b10",
+    "label": "Harbor porpoise (maybe!)",
+    "description": "Small, quick surfacing at a distance.",
+    "safety_note": "Do not wait at unsafe spots; move on if cold/tired."
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "bingo_id": "hbw_b1",
+    "label": "Bird on a wire",
+    "description": "Perched bird on a line or branch.",
+    "safety_note": "Observe quietly; don’t throw food."
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "bingo_id": "hbw_b2",
+    "label": "Cone or seed pod",
+    "description": "Any cone/seed pod on ground.",
+    "safety_note": "Leave where you found it unless park rules allow collecting."
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "bingo_id": "hbw_b3",
+    "label": "Ant trail",
+    "description": "A line of ants moving.",
+    "safety_note": "Do not disturb nests."
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "bingo_id": "hbw_b4",
+    "label": "Moss or lichen",
+    "description": "Green/gray patches on bark/stone.",
+    "safety_note": "Do not peel off living moss/lichens."
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "bingo_id": "hbw_b5",
+    "label": "Three leaf shapes",
+    "description": "Find three different leaf shapes.",
+    "safety_note": "Do not pick from private property."
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "bingo_id": "hbw_b6",
+    "label": "Cloud type",
+    "description": "Note a cloud type you can name later.",
+    "safety_note": "Sun safety."
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "bingo_id": "hbw_b7",
+    "label": "Insect sound",
+    "description": "Buzz, chirp, or hum.",
+    "safety_note": "Do not chase or capture."
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "bingo_id": "hbw_b8",
+    "label": "Squirrel or urban wildlife",
+    "description": "Brief sighting of a mammal.",
+    "safety_note": "Observe quietly; don’t feed wildlife."
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "bingo_id": "hbw_b9",
+    "label": "Street tree tag",
+    "description": "Find a tree with tag/marker.",
+    "safety_note": "Respect city property."
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "bingo_id": "hbw_b10",
+    "label": "Micro-habitat under a shrub",
+    "description": "Look for leaf litter life.",
+    "safety_note": "Do not disturb nests; hands off soil in private gardens."
+  }
+]

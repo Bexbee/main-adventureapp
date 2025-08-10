@@ -1,0 +1,122 @@
+[
+  {
+    "pack_slug": "fort_worden_shore",
+    "activity_id": "fw_act_01",
+    "title": "Kelp Detective",
+    "category": "observe",
+    "instructions": "Find two different kinds of seaweed washed ashore. Sketch their shapes and note texture. Optional: identify to broad group (kelp/rockweed).",
+    "location_scope": "fw_03",
+    "duration_min": 15,
+    "required_items": "Pencil, small notebook",
+    "ethics_safety": "Do not remove living algae attached to rocks; leave wildlife as found.",
+    "age_range": "All ages"
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "activity_id": "fw_act_02",
+    "title": "Shorebird Watch",
+    "category": "observe",
+    "instructions": "From a safe distance, watch seabirds for 2 minutes. What are they doing (diving, preening, flying)? Sketch one behavior.",
+    "location_scope": "fw_01",
+    "duration_min": 10,
+    "required_items": "Binoculars optional, notebook",
+    "ethics_safety": "Observe from shore; avoid flushing birds; keep dogs leashed.",
+    "age_range": "All ages"
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "activity_id": "fw_act_03",
+    "title": "Sound Map",
+    "category": "listen",
+    "instructions": "Close your eyes for 60 seconds. Mark sounds on a simple map (waves, gulls, boats, wind).",
+    "location_scope": "fw_04",
+    "duration_min": 5,
+    "required_items": "Notebook",
+    "ethics_safety": "Choose a safe, steady spot away from waves and edges.",
+    "age_range": "All ages"
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "activity_id": "fw_act_04",
+    "title": "Drift Log Detective",
+    "category": "safety",
+    "instructions": "From a safe distance, choose one drift log. Describe why it could be unstable. Find safe paths that avoid walking on drift logs.",
+    "location_scope": "fw_03",
+    "duration_min": 8,
+    "required_items": "Notebook",
+    "ethics_safety": "Never climb or jump on drift logs; watch for sneaker waves.",
+    "age_range": "All ages"
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "activity_id": "fw_act_05",
+    "title": "Be Whale Wise Check-in",
+    "category": "ethics",
+    "instructions": "Review viewing-from-shore guidance. Name two ways you’ll keep wildlife safe today.",
+    "location_scope": "fw_06",
+    "duration_min": 5,
+    "required_items": "Be Whale Wise card in app",
+    "ethics_safety": "Observe from shore; never approach or encircle wildlife; respect closures.",
+    "age_range": "All ages"
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "activity_id": "fw_act_06",
+    "title": "Current Clues",
+    "category": "observe",
+    "instructions": "At a safe viewpoint, look for current lines, eddies, or tide rips. Sketch arrows to show flow direction.",
+    "location_scope": "fw_05",
+    "duration_min": 10,
+    "required_items": "Notebook",
+    "ethics_safety": "Stay well back from water on strong exchange days.",
+    "age_range": "All ages"
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "activity_id": "hbw_act_01",
+    "title": "Tree Shapes Bingo",
+    "category": "bingo",
+    "instructions": "Find three different tree shapes (cone, column, round). Sketch each and note leaf/needle type.",
+    "location_scope": "ANY",
+    "duration_min": 15,
+    "required_items": "Notebook, pencil",
+    "ethics_safety": "Stay on sidewalks; don’t pick leaves from private trees.",
+    "age_range": "All ages"
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "activity_id": "hbw_act_02",
+    "title": "Bird Minute",
+    "category": "listen",
+    "instructions": "Stand still for 60 seconds. How many distinct bird sounds do you hear? Try to imitate one quietly.",
+    "location_scope": "ANY",
+    "duration_min": 5,
+    "required_items": "None",
+    "ethics_safety": "Keep voices low; do not chase birds.",
+    "age_range": "All ages"
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "activity_id": "hbw_act_03",
+    "title": "Mini-Habitat Survey",
+    "category": "observe",
+    "instructions": "Choose a 1x1 meter patch. List plants/critters; note sun/shade and moisture. Repeat next week and compare.",
+    "location_scope": "ANY",
+    "duration_min": 10,
+    "required_items": "Notebook, small ruler (optional)",
+    "ethics_safety": "Avoid pesticides; do not disturb nests.",
+    "age_range": "All ages"
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "activity_id": "hbw_act_04",
+    "title": "Cloud Scout",
+    "category": "observe",
+    "instructions": "Look up: sketch today’s cloud type(s) and note wind direction with an arrow.",
+    "location_scope": "ANY",
+    "duration_min": 5,
+    "required_items": "Notebook",
+    "ethics_safety": "Sun safety: hats/eyewear; don’t stare at sun.",
+    "age_range": "All ages"
+  }
+]
