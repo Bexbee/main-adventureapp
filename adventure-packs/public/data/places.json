@@ -1,0 +1,70 @@
+[
+  {
+    "pack_slug": "fort_worden_shore",
+    "place_id": "fw_01",
+    "name": "Point Wilson Lighthouse Overlook",
+    "type": "viewpoint",
+    "description": "Overlook with views of the lighthouse and strait.",
+    "address_or_hint": "Near parking lot A",
+    "lat": 48.139,
+    "lon": -122.752,
+    "time_min": 15,
+    "route_order": 1,
+    "hazards_notes": "Stay behind railings"
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "place_id": "fw_02",
+    "name": "North Beach Access",
+    "type": "beach",
+    "description": "Sandy stretch for beachcombing.",
+    "address_or_hint": "Path behind picnic area",
+    "lat": 48.142,
+    "lon": -122.768,
+    "time_min": 20,
+    "route_order": 2,
+    "hazards_notes": "Watch for logs and tides"
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "place_id": "fw_03",
+    "name": "Marine Science Sign",
+    "type": "educational",
+    "description": "Interpretive sign with shore life info.",
+    "address_or_hint": "Along main path",
+    "lat": 48.136,
+    "lon": -122.760,
+    "time_min": 10,
+    "route_order": 3
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "place_id": "hb_01",
+    "name": "Homebase",
+    "type": "homebase",
+    "description": "Start here. Choose a loop in your neighborhood.",
+    "address_or_hint": "Front step",
+    "time_min": 5,
+    "route_order": 1
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "place_id": "hb_02",
+    "name": "Sit Spot",
+    "type": "sit-spot",
+    "description": "Find a quiet place to observe.",
+    "address_or_hint": "Bench or curb",
+    "time_min": 10,
+    "route_order": 2
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "place_id": "hb_03",
+    "name": "Observation Corner",
+    "type": "observation",
+    "description": "Street corner with lots to notice.",
+    "address_or_hint": "Pick a nearby corner",
+    "time_min": 10,
+    "route_order": 3
+  }
+]

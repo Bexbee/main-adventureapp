@@ -1,0 +1,15 @@
+[
+  { "pack_slug": "fort_worden_shore", "bingo_id": "fw_b_01", "label": "Harbor seal (from shore)", "safety_note": "Do not approach" },
+  { "pack_slug": "fort_worden_shore", "bingo_id": "fw_b_02", "label": "Kelp on the beach" },
+  { "pack_slug": "fort_worden_shore", "bingo_id": "fw_b_03", "label": "Sea gull feathers" },
+  { "pack_slug": "fort_worden_shore", "bingo_id": "fw_b_04", "label": "Driftwood shapes" },
+  { "pack_slug": "fort_worden_shore", "bingo_id": "fw_b_05", "label": "Lighthouse beacon" },
+  { "pack_slug": "fort_worden_shore", "bingo_id": "fw_b_06", "label": "Wave patterns" },
+
+  { "pack_slug": "homebase_walkable", "bingo_id": "hb_b_01", "label": "Bird on a wire" },
+  { "pack_slug": "homebase_walkable", "bingo_id": "hb_b_02", "label": "Bicycle or scooter" },
+  { "pack_slug": "homebase_walkable", "bingo_id": "hb_b_03", "label": "House number with 7" },
+  { "pack_slug": "homebase_walkable", "bingo_id": "hb_b_04", "label": "Flowering plant" },
+  { "pack_slug": "homebase_walkable", "bingo_id": "hb_b_05", "label": "Friendly dog (ask before petting)" },
+  { "pack_slug": "homebase_walkable", "bingo_id": "hb_b_06", "label": "Red mailbox or door" }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "pack_slug": "fort_worden_shore",
+    "activity_id": "fw_act_01",
+    "title": "Kelp Detective",
+    "category": "observe",
+    "instructions": "Find three kinds of seaweed and sketch their shapes.",
+    "location_scope": "ANY",
+    "duration_min": 10,
+    "required_items": "notebook, pencil"
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "activity_id": "fw_act_02",
+    "title": "Wave Listener",
+    "category": "listen",
+    "instructions": "Close your eyes and list 3 different water sounds.",
+    "location_scope": "fw_02",
+    "duration_min": 5
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "activity_id": "fw_act_03",
+    "title": "Shoreline Bingo Warmup",
+    "category": "bingo",
+    "instructions": "Pick any 3 bingo items to find.",
+    "location_scope": "ANY",
+    "duration_min": 10
+  },
+  {
+    "pack_slug": "fort_worden_shore",
+    "activity_id": "fw_act_04",
+    "title": "Safety Check",
+    "category": "safety",
+    "instructions": "Review tide times and safe distances.",
+    "location_scope": "ANY",
+    "duration_min": 5,
+    "ethics_safety": "Stay behind railings"
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "activity_id": "hb_act_01",
+    "title": "Neighborhood Sounds",
+    "category": "listen",
+    "instructions": "List 5 sounds on your block.",
+    "location_scope": "ANY",
+    "duration_min": 10
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "activity_id": "hb_act_02",
+    "title": "Color Hunt",
+    "category": "observe",
+    "instructions": "Find 4 things that are green.",
+    "location_scope": "ANY",
+    "duration_min": 10
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "activity_id": "hb_act_03",
+    "title": "Sit Spot Notes",
+    "category": "observe",
+    "instructions": "Spend 5 minutes and write what you notice.",
+    "location_scope": "hb_02",
+    "duration_min": 5
+  },
+  {
+    "pack_slug": "homebase_walkable",
+    "activity_id": "hb_act_04",
+    "title": "Friendly Landmarks",
+    "category": "educational",
+    "instructions": "Name 3 landmarks you can spot from your homebase.",
+    "location_scope": "hb_01",
+    "duration_min": 10
+  }
+]
